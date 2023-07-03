@@ -226,7 +226,7 @@ def menu():
 			print(' [1] File cloning\n [2] Random cloning\n [3] gmail cloning \n [4] join Messenger group \n [0] Exit menu')
 			linex()
 			xd=input(' Choose an option: ')
-	 #          os.system('xdg-open https://www.facebook.com/profile.php?id=100089542576804')
+	  #       os.system('xdg-open https://www.facebook.com/dr.paigham')
 			if xd in ['1','01']:
 				clear()
 				print(' Put file example:  /sdcard/File.txt  etc..')
